@@ -1,0 +1,11 @@
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\bin\Release\Desksub.exe.config
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\bin\Release\Desksub.exe
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\bin\Release\Desksub.pdb
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\obj\Release\Desksub.Properties.Resources.resources
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\obj\Release\Desksub.csproj.GenerateResource.Cache
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\obj\Release\Desksub.exe
+c:\users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\obj\Release\Desksub.pdb
+C:\Users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\obj\Release\Desksub.csprojResolveAssemblyReference.cache
+C:\Users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\bin\Release\Newtonsoft.Json.dll
+C:\Users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\bin\Release\Newtonsoft.Json.xml
+C:\Users\raycell\documents\visual studio 2015\Projects\Desksub\Desksub\obj\Release\Desksub.mainForm.resources
