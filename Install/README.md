@@ -1,5 +1,5 @@
 <div dir="rtl">
--انتقال پوشه Desksub به پوشه C:\
--اجرای فایل install.reg در پوشه registry
--پایان
+- Move Desksub Folder to C:\
+- Run install.reg in Registry Folder
+- Enjoy
 </div>
